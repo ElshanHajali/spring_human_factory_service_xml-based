@@ -1,5 +1,5 @@
 # human_factory_service_xml-based
-Plan
+                  Plan
 Create Human Service interface like he has legs, arm, head so on…
 Create a Human interface with same method as Human Service
 Create dependencies which implements Human Service interface:
@@ -15,5 +15,5 @@ Package structure under com.humandemo:
 --Interfaces
 --Configuration
 
-Project types
+             Project types
 In the first project use xml-based configuration
